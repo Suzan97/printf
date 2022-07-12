@@ -1,2 +1,3 @@
 printf
-Handling conversion specifiers
+Handling format specifiers
+Conversions with printf
